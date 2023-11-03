@@ -130,10 +130,11 @@ export const MessageArea = styled.textarea`
   padding: 10px;
   margin-bottom: 20px;
   font-weight: bold;
+  background-color: #fff; 
 
-  box-shadow: 0px 3px 6px -2px rgba(0, 0, 0, 0.75);
-  -webkit-box-shadow: 0px 3px 6px -2px rgba(0, 0, 0, 0.75);
-  -moz-box-shadow: 0px 3px 6px -2px rgba(0, 0, 0, 0.75);
+    box-shadow: 0px 3px 6px -2px rgba(0, 0, 0, 0.75);
+    -webkit-box-shadow: 0px 3px 6px -2px rgba(0, 0, 0, 0.75);
+    -moz-box-shadow: 0px 3px 6px -2px rgba(0, 0, 0, 0.75);
 `;
 
 export const Button = styled.button`
