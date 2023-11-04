@@ -23,7 +23,7 @@ const TopHeader = () => {
           <ul className="list-none flex flex-row gap-2 w-full lg:w-1/2">
             <li className="flex gap-1 text-white text-xs md:text-sm">
               <TelephoneIcon />
-              <span>123-345-3444</span>
+              <span>754-610-0428</span>
             </li>
 
             <li className="flex gap-1 text-white text-xs md:text-sm">
