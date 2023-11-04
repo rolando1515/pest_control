@@ -30,7 +30,7 @@ const TopHeader = () => {
               <ClockIcon />
               <span>Mon - Fri 8:00 - 18:00</span>
             </li>
-            <li className="flex gap-1 text-white text-xs md:text-sm">
+             <li className="flex gap-1 text-white text-xs md:text-sm">
               <LocationIcon />
               <span>1234 Street Adress City, State 12345</span>
             </li>
