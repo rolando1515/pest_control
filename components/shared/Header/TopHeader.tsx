@@ -32,7 +32,7 @@ const TopHeader = () => {
             </li>
              <li className="flex gap-1 text-white text-xs md:text-sm">
               <LocationIcon />
-              <span>1234 Street Adress City, State 12345</span>
+              <span>Plantation,Florida 33324 </span>
             </li>
           </ul>
           {/* searchbox  */}
